@@ -1,0 +1,27 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main>span{
+    height: 50px;
+    width: 25px;
+    border: 2px solid black;
+}
+
+.button{
+    margin-right: 2%;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#yellow{
+    background-color: yellow;
+}
